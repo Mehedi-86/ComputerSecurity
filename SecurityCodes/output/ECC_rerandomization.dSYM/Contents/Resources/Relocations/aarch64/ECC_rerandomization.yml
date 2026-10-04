@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mehedihasan/Documents/Security_Lab/output/ECC_rerandomization'
+relocations:     []
+...
